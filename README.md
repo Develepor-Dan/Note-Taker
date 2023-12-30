@@ -21,7 +21,8 @@
 After pulling up the code, you will fist type 'npm install' in the terminal followed by 'node index.js' which will open the app in your browser.
 
 ## Usage
-![demo of the project]()
+![demo of the project](./assets/NoteTakerExpressDemo.gif)
+
 You will be presented with a home page with a "Get Started" button in the middle of the page. After clicking the button, you will be taken to a "notepad" where you can write the note title as well as a descripting for the note. There will be a save icon on the top right after completing the note. after saving, you will be able view your saved note on the left side of the screen. Whenever you are done with the note/task, you can delete the note with the delete icon.
 
 ## License
@@ -29,16 +30,18 @@ You will be presented with a home page with a "Get Started" button in the middle
 This project is licensed under the [None](https://opensource.org/licenses/None) License - see the [LICENSE](LICENSE) file for details.
 
 ## Feature(s)
-- A delete button - a save button - a get started button - a text area for notes
-
-## Tests
-undefined
+- A delete button 
+- a save button 
+- a get started button 
+- a text area for notes
 
 ## Credits
-[]([Starter Code](https://github.com/coding-boot-camp/miniature-eureka) - [npm js - uuid](https://www.npmjs.com/package/uuid?activeTab=readme) - [How to read and write JSON file using node.js](https://www.geeksforgeeks.org/how-to-read-and-write-json-file-using-node-js/) )
+- [Starter Code](https://github.com/coding-boot-camp/miniature-eureka) 
+- [npm js - uuid](https://www.npmjs.com/package/uuid?activeTab=readme) 
+- [How to read and write JSON file using node.js](https://www.geeksforgeeks.org/how-to-read-and-write-json-file-using-node-js/) 
 
 ## Deployment
-[GitHub Repository]()
+[GitHub Repository](https://github.com/Develepor-Dan/Note-Taker)
 
 ## Questions
-For questions about contribution about the project, please contact [Daniel Zavala](mailto:zavaladaniel151@gmail.com).
+For questions about contribution or about the project, please contact [Daniel Zavala](mailto:zavaladaniel151@gmail.com).
